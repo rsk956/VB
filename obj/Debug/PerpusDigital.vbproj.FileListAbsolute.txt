@@ -1,0 +1,12 @@
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\bin\Debug\PerpusDigital.exe.config
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\bin\Debug\PerpusDigital.exe
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\bin\Debug\PerpusDigital.pdb
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\bin\Debug\PerpusDigital.xml
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\obj\Debug\PerpusDigital.vbprojAssemblyReference.cache
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\obj\Debug\PerpusDigital.Form1.resources
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\obj\Debug\PerpusDigital.Resources.resources
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\obj\Debug\PerpusDigital.vbproj.GenerateResource.cache
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\obj\Debug\PerpusDigital.vbproj.CoreCompileInputs.cache
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\obj\Debug\PerpusDigital.exe
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\obj\Debug\PerpusDigital.xml
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusDigital\PerpusDigital\obj\Debug\PerpusDigital.pdb
