@@ -1,0 +1,17 @@
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\bin\Debug\PerpusVB.exe.config
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\bin\Debug\PerpusVB.exe
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\bin\Debug\PerpusVB.pdb
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\bin\Debug\PerpusVB.xml
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.vbprojAssemblyReference.cache
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.Form1.resources
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.Resources.resources
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.vbproj.GenerateResource.cache
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.vbproj.CoreCompileInputs.cache
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.exe
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.xml
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.pdb
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.Home.resources
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.daftar.resources
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.User.resources
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\Interop.EventSystemLib.dll
+D:\Semester 6\Pemprograman Visual\ProjekVB\PerpusVB\PerpusVB\obj\Debug\PerpusVB.vbproj.ResolveComReference.cache
